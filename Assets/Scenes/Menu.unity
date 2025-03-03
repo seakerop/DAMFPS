@@ -2549,9 +2549,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Trabajo DAM
-
-    by Emilio Navarro.'
+  m_text: "Trabajo DAM\nRub\xE9n Caro\nEmilio Navarro\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3056,6 +3054,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f874486c7c69efa41bb7e31632221283, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  GameManager: {fileID: 0}
 --- !u!4 &2054242519
 Transform:
   m_ObjectHideFlags: 0
